@@ -96,3 +96,20 @@ border: 1px solid rgba(230, 229, 229, 0.746) ;
 font-size: 28px;
 
 }
+@media (max-width: 700px ) {
+    .searchbtn {
+        width: 100%; 
+    }
+    
+    .btn {
+        width: 40%; 
+        margin-right: 8px; 
+    }
+    .col{
+        width: 50%;
+
+    }
+    .col img{
+        width: 100%;
+    }
+}
